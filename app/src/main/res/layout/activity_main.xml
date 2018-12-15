@@ -30,5 +30,5 @@
         android:text="@string/Ara_Project"
         android:textColor="#ffffff"
         android:textSize="50sp" />
-
+        //new demo project
 </RelativeLayout>
